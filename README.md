@@ -12,3 +12,4 @@
 
 - CI/CD
 - dockerization
+- deployment 
