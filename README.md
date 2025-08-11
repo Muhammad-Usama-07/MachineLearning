@@ -13,3 +13,4 @@
 - CI/CD
 - dockerization
 - deployment 
+- monitoring 
