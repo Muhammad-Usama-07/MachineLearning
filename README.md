@@ -20,4 +20,6 @@
 - CI/CD
 - dockerization
 - deployment 
-- monitoring 
+- monitoring
+
+### Projects
