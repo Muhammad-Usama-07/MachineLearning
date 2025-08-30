@@ -23,3 +23,5 @@
 - monitoring
 
 ### Projects
+
+- Trend detection 
