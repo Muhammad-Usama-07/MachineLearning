@@ -25,4 +25,9 @@
 
 ### Projects
 
-- Trend detection 
+- Trend detection
+
+### Techniques
+- best parameters finding 
+
+
