@@ -28,6 +28,7 @@
 - Trend detection
 
 ### Techniques
-- best parameters finding 
+- best parameters finding
+- forecasting 
 
 
