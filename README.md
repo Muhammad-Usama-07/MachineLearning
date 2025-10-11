@@ -5,6 +5,7 @@
 
 ### Tools
 
+ - Linear regression 
  - Kmeans
  - naive bais
  - logistitc regression
