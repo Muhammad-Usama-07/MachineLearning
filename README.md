@@ -33,4 +33,6 @@
 - best parameters finding
 - forecasting 
 
+### Problems
+- accuracy stuck at specific value 
 
