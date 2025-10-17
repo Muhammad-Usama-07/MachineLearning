@@ -31,7 +31,8 @@
 
 ### Techniques
 - best parameters finding
-- forecasting 
+- forecasting
+- confusion matrix 
 
 ### Problems
 - accuracy stuck at specific value 
