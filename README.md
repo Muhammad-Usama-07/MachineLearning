@@ -33,7 +33,8 @@
 - best parameters finding
 - forecasting
 - confusion matrix
-- evaluation 
+- evaluation
+- augmentation 
 
 ### Problems
 - accuracy stuck at specific value 
