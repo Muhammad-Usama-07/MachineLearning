@@ -34,7 +34,8 @@
 - forecasting
 - confusion matrix
 - evaluation
-- augmentation 
+- augmentation
+- plot prediction 
 
 ### Problems
 - accuracy stuck at specific value 
