@@ -35,6 +35,7 @@
 - confusion matrix
 - evaluation
 - augmentation
+- training result analysis 
 - plot prediction 
 
 ### Problems
