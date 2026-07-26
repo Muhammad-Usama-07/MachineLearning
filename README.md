@@ -11,7 +11,7 @@
  - naive bais
  - logistitc regression
  - GridSearchCV
-
+ - MlFlow
 ### Notes
  - [End to End Machine Learning](https://github.com/Muhammad-Usama-07/MachineLearning/blob/main/Practices%20%26%20Notes/End%20to%20End%20Machine%20learning.docx)
  - [Monitoring Machine Learning](https://github.com/Muhammad-Usama-07/MachineLearning/blob/main/Practices%20%26%20Notes/Monitoring%20Machine%20Learning.docx)  
