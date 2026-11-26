@@ -33,6 +33,7 @@
 - Trend detection
 
 ### Techniques
+
 - best parameters finding
 - forecasting
 - confusion matrix
