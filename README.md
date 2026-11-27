@@ -43,6 +43,7 @@
 - plot prediction 
 
 ### Problems
+
 - accuracy stuck at specific value 
 - over fitting 
 
